@@ -1,6 +1,6 @@
 # Projetofrases
 
-Este projeto é uma aplicação React desenvolvida com TypeScript e Vite. Ele fornece uma configuração mínima para iniciar o desenvolvimento de aplicações React com Hot Module Replacement (HMR) e algumas regras de ESLint.
+Este projeto é uma aplicação React desenvolvida com TypeScript e Vite. Ele fornece uma configuração mínima para iniciar o desenvolvimento de aplicações React.
 
 ## Descrição
 
